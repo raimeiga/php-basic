@@ -6,6 +6,7 @@
      <title>PHP基礎編</title>
  </head>
  
+ 
  <body>
      <h2>お問い合わせ</h2>
      <form action="confirmation.php" method="post">
