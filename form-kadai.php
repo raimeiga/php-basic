@@ -1,15 +1,11 @@
 <!DOCTYPE html>
  <html lang="ja">
  
- <head>
-     <meta charset="UTF-8">
-     <title>PHP基礎編</title>
- </head>
  
  
  <body>
      <h2>個人情報入力フォーム</h2>
-     <form action="confirmation-kadai.php" method="post">
+     <form action="confirmation.php" method="post">
          <table>
              <tr>
                  <td>お名前</td>
